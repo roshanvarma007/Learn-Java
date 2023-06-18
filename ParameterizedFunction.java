@@ -7,7 +7,7 @@ public class ParameterizedFunction { // parameter is also called a agrs or argum
         int user2Age = 15;
         getAgeInDays(user2Age);
 
-        int ammout = 1000;
+        int ammout = 5000;
         int time = 5;
         int rate = 12;
         calculateIntrestRate(ammout, time, rate);
